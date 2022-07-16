@@ -1,6 +1,7 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
+import 'package:trackizer/pages/Register_1.dart';
 import 'package:trackizer/pages/welcome_screen.dart';
 
 void main() {
@@ -19,7 +20,11 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: WelcomeScreen(),
+      initialRoute: '/',
+      routes: {
+        '/': (context) => WelcomeScreen(),
+        '/register1': (context) => Register1(),
+      },
     );
   }
 }
