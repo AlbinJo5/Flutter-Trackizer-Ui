@@ -1,16 +1,9 @@
-# trackizer
+# Trackizer on Flutter
 
-A new Flutter project.
+track your social media plans
 
-## Getting Started
+## Welcome Page
+![1](https://user-images.githubusercontent.com/75153651/179370589-a11090f7-6a32-4f55-b632-b421844fc45d.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Register page 1
+![2](https://user-images.githubusercontent.com/75153651/179370596-f715a462-97fc-4321-b933-5c3e636787d7.png)
